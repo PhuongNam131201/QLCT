@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="linkColor">#4285F4</color>
+    <color name="buttonColor">#3B82F6</color>
+    <color name="backgroundGradientStart">#4A00E0</color>
+    <color name="backgroundGradientEnd">#8E2DE2</color>
+    <color name="primary">#747474</color>
+    <color name="grey">#747474</color>
+    <color name="orange">#FA8D42</color>
+    <color name="yellow">#ffe400</color>
+    <color name="green">#14a76c</color>
+    <color name="blue">#459DE4</color>
+    <color name="red">#FF0000</color>
+    <color name="pink">#EF76AE</color>
+    <color name="pinka">#965DB7</color>
+    <color name="yellow_pastel">#F0F0F0</color>
+    <color name="backgroundb">#1C1C1C</color>
+    <color name="backgrounda">#0e1c3e</color>
+    <color name="blueskya">#E0F7FA</color>
+    <color name="blueskyb">#B2EBF2</color>
+    <color name="header_background">#3F51B5</color>
+    <color name="fab_color">#FF4081</color>
+    <color name="nav_background">#FFFFFF</color>
+    <color name="nav_icon_color">#757575</color>
+    <color name="nav_text_color">#212121</color>
+</resources>

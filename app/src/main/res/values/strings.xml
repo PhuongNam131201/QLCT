@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QLCT</string>
+    <string-array name="transaction_types">
+        <item>Mua sắm</item>
+        <item>Ăn uống</item>
+        <item>Đi lại</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
